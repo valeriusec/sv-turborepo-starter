@@ -66,5 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy coding!
 ```
-
-You can save this content directly into a `README.md` file in the root directory of your project. This will provide clear instructions for anyone who wants to set up and work with the repository.
