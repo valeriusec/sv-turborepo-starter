@@ -1,10 +1,4 @@
-import {
-  Alert,
-  AlertDescription,
-  AlertTitle,
-} from "@repo/ui/components/ui/alert";
 import { Button } from "@repo/ui/components/ui/button";
-import { ThemeToggle } from "@repo/ui/components/ui/theme-toggle";
 import { Terminal } from "lucide-react";
 export default function Home() {
   return (
